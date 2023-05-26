@@ -1,0 +1,75 @@
+.banner {
+  margin: -30px;
+  padding-left: -20px;
+}
+
+.foto {
+  margin: -30px;
+  padding-left: -20px;
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  top: 40px;
+  left: 40px;
+}
+.foto2 {
+  padding-left: -20px;
+  height: 200px;
+  width: 200px;
+  top: 40px;
+  left: 40px;
+}
+
+.parrafos {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+}
+
+a {
+  font-weight: 300;
+  font-style: oblique;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  text-align: center;
+  background-color: #9d41c0;
+  font-size: 38;
+  color: #ffffff;
+}
+.bio {
+  text-align: center;
+  color: rgb(39, 39, 39);
+}
+h2 {
+  padding: 8px;
+  font-size: 20px;
+  color: rgb(39, 39, 39);
+  background-color: #ab54cd23;
+}
+h3 {
+  padding: 8px;
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 2px;
+  text-align: center;
+  color: #9d41c0;
+}
+p {
+  font-style: italic;
+  font-weight: 200;
+  text-align: center;
+  font-size: 22px;
+}
+dt {
+  font-weight: bold;
+}
+footer p {
+  text-align: left;
+  color: #9d41c0;
+  font-size: 16px;
+  font-weight: 400;
+}
